@@ -13,4 +13,4 @@ fill(#FFFFFF); arc(130, 80, 10, 15, 0, PI+PI, OPEN); //eye-left-reflect
 fill(#FFFFFF); arc(170, 80, 10, 15, 0, PI+PI, OPEN); //eye-right-reflect
 line(32, 108, 120, 130); line(180, 130, 268, 108); //beard-1
 line(25, 145, 120, 145); line(180, 145, 275, 145); //beard-2
-line(32, 182, 120, 160); line(180, 160, 268, 182); //beard-3
+line(30, 182, 120, 160); line(180, 160, 270, 182); //beard-3
